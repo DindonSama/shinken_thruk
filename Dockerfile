@@ -9,6 +9,7 @@ RUN         apt-get update && apt-get install -y python-pip \
                 nagios-plugins \
                 libsys-statistics-linux-perl \
                 apache2 \
+		ssh \
                 supervisor \
                 libssl-dev \
                 python-crypto \
